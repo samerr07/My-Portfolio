@@ -19,8 +19,8 @@ const About = () => {
 
         <br />
         <p className='text-xl'>
-          I did my class 10th and class 12th from UP board. I got 84.9 %
-          in class 12th and 90.2 % in class 10th.After that I did B.tech in 
+          I did my class 10th and class 12th from UP board. I got 80.1 %
+          in class 12th and 84.9 % in class 10th.After that I did B.tech in 
           Mechanical Engineering from JC Bose University of Science 
           & Technology (YMCA).I got 8.28 CGPA in B.tech. After that I joined
           Coding Ninjas Bootcamp where I learned different programming languages
